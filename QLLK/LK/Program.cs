@@ -16,7 +16,7 @@ namespace LK
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChucVu());
+            Application.Run(new PhieuBaoHanh());
         }
     }
 }

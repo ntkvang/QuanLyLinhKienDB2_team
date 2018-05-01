@@ -11,3 +11,7 @@ F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.csproj.CoreCompileInputs.cache
 F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.csproj.CopyComplete
 F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.exe
 F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.pdb
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.frmKhachHang.resources
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.frmNhaCungCap.resources
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.PhieuBaoHanh.resources
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.frmTaiKhoan.resources
